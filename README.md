@@ -1,4 +1,4 @@
-# Mall Customer Segmentation Analysis
+# Customer Segmentation Analysis
 
 This project analyzes mall customer data using clustering techniques to uncover customer segments and provide actionable business insights. The notebook demonstrates:
 
